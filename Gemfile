@@ -34,7 +34,7 @@ gem 'feedjira'
 
 gem 'twitter-bootstrap-rails'
 
-gem "paperclip", "~> 4.1.1"
+gem "paperclip", "~> 5.2.0"
 
 gem 'twitter'
 
